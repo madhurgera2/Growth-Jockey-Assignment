@@ -31,7 +31,7 @@
     text-align: justify;
 }
 .search{
-    margin-top: 10px;
+    margin-top: 40px;
     display: flex;
     align-items: start;
     justify-content: flex-start;
@@ -66,6 +66,12 @@ input:focus{
     border-radius: 0px 10px 0px 10px;
     background-color: rgb(242, 246, 255);
     position: relative;
-    top: 250px;
-    right: 25px;
+    top: 270px;
+    right: 50px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.icon-text{
+    display: flex;
 }
