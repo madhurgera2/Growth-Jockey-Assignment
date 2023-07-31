@@ -1,0 +1,40 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.navbar-list{
+    width: 50vw;
+    list-style: none;
+    color: #456D9E;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+.list-item{
+    padding: 20px;
+}
+.logo
+{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    font-size: 20px;
+    width: 230px;
+}
+
+.blue-background{
+    background-color: #456D9E;
+    color: white;
+}
+.register-btn{
+    border-radius: 5px;
+    height: 40px;
+    width: 150px;
+    font-size: 15px;
+    border: none;
+    color: #456D9E;
+    background-color: white;
+    font-weight: bold;
+}
